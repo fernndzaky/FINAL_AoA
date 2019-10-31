@@ -21,6 +21,8 @@ STEP 3
 Download or clone the parent folder ( FINAL_AoA folder ) from Github with the link down below
 https://github.com/fernndzaky/FINAL_AoA
 
+After you successfully clone the folder, rename the folder from 'FINAL_AoA-master' into 'FINAL_AoA', because that is where the programme know where all the file is located. 
+
 
 STEP 4
 Put the parent folder in your computer inside the 'XAMPP\htdocs' folder. The parent folder (Final_Aoa folder) must be in the xampp folder in order to be accessible.
