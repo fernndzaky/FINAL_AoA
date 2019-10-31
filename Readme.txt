@@ -1,4 +1,4 @@
-Deployment Guide
+DEPLOYMENT GUIDE
 
 STEP 1
 Download XAMPP with the link down below :
@@ -14,11 +14,11 @@ Download or clone the parent folder ( FINAL_AoA folder ) from Github with the li
 https://github.com/fernndzaky/FINAL_AoA
 
 STEP 3
-Put the parent folder in your computer inside the 'xampp/php' folder. The parent folder (Final_Aoa folder) must be in the xampp folder in order to be accessible. If there is no php folder in the xampp, you can create a new folder with 'php' as its folder name.
+Put the parent folder in your computer inside the 'XAMPP\htdocs' folder. The parent folder (Final_Aoa folder) must be in the xampp folder in order to be accessible.
 
 STEP 4
 Open your browser and open the URL down below, in order to run the programme
-http://localhost/php/FINAL_AoA/
+http://localhost/FINAL_AoA
 
 STEP 5
 Select your desired plate number , start point and also your destination. The programme will then visualize the shortest path from your start point to your destination.
